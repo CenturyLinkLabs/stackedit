@@ -1,4 +1,5 @@
 FROM node
+MAINTAINER CenturyLink
 EXPOSE 3000
 
 RUN apt-get update
