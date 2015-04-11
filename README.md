@@ -5,6 +5,8 @@ StackEdit is a full-featured, open-source Markdown editor based on PageDown, the
 
 Main showcase: https://stackedit.io/.
 
-# How to
+## How to
+
+To run as a daemon :
 
 	docker run --name stackedit -d -p 80:3000 centurylink/stackedit
